@@ -1,5 +1,3 @@
-Aquí tienes una descripción básica del programa que podrías usar en el README de tu repositorio de GitHub:
-
 ---
 
 # ElegantSignup
