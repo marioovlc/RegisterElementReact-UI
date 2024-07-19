@@ -15,6 +15,6 @@ ElegantSignup es un componente de formulario de registro moderno y atractivo con
 
 Este componente de registro puede ser fácilmente integrado en proyectos web más grandes o utilizado como punto de partida para desarrollar formularios más complejos.
 
-[Link](https://imgur.com/RTnsXDk/ "Foto del UI").
+[Foto del UI](https://imgur.com/RTnsXDk/ "Foto del UI").
 
 ---
